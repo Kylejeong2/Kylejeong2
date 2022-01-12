@@ -17,7 +17,7 @@ Hi there, I'm **Kyle Jeong**, a **Computer Science student** 🚀 from the bay a
 
   <img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding-dog&psig=AOvVaw2DEYuhKuxvoltRjvoIH70q&ust=1642053764546000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNC84YbFq_UCFQAAAAAdAAAAABAD" />
 
-**Talking about Personal Stuffs:**
+**About Me:**
 
 - 👨🏽‍💻 I’m currently an student;
 - 🌱 I’m currently learning Data Structures and Algorithms; 
@@ -36,6 +36,7 @@ Hi there, I'm **Kyle Jeong**, a **Computer Science student** 🚀 from the bay a
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vscode/vscode.png"></code>
 
 ![Kyle's github stats](https://github-readme-stats.vercel.app/api?username=kylejeong2&show_icons=true&hide_border=true)
 
