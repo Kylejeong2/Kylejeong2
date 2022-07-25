@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Kyle
 
-<a href="https://www.linkedin.com/in/kyle-jeong-971445205/">
+<a href="https://www.linkedin.com/in/kyle-jeong/">
   <img align="left" alt="Kyle's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="mailto:kylejeong21@gmail.com">
@@ -19,7 +19,7 @@ Hi there, I'm **Kyle Jeong**, a **Computer Science student** 🚀 from the bay a
 
 **About Me:**
 
-- 👨🏽‍💻 I’m currently an student;
+- 👨🏽‍💻 I’m currently an student studying at SFSU!
 - 🌱 I’m currently learning Data Structures & Algorithms; 
 - 🤔 My interests are software engineering & full stack development;
 - 💼 I’m soon to be pursuing a Bachelor's in Computer Science at San Francisco State University;
