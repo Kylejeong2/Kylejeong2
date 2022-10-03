@@ -22,7 +22,7 @@ Hi there, I'm **Kyle Jeong**, a **Computer Science student** 🚀 from the bay a
 - 👨🏽‍💻 I’m currently an student studying at SFSU!
 - 🌱 I’m currently learning Data Structures & Algorithms; 
 - 🤔 My interests are software engineering & full stack development;
-- 💼 I’m soon to be pursuing a Bachelor's in Computer Science at San Francisco State University;
+- 💼 I’m pursuing a Bachelor's in Computer Science at San Francisco State University;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via Kylejeong21@gmail.com to reach me.
 
