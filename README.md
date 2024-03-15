@@ -20,7 +20,7 @@ Hi there, I'm **Kyle Jeong**, a **Computer Science student** 🚀 from the bay a
 **About Me:**
 
 - 👨🏽‍💻 I’m currently an student studying at Las Positas Commmunity College!
-- 🌱 I’m currently learning Data Structures & Algorithms; 
+- 🌱 I’m currently learning Assembly and Computer Organization; 
 - 🤔 My interests are software engineering & full stack development;
 - 💼 I’m pursuing a Bachelor's in Computer Science;
 - 💬 Ask me about anything, I am happy to help;
