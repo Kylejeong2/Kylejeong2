@@ -20,11 +20,11 @@ Hi there, I'm **Kyle Jeong**, a **Computer Science student** 🚀 from the bay a
 **About Me:**
 
 - 👨🏽‍💻 I’m currently an student studying at UCLA!
-- 🌱 I’m currently learning System Design and Scalability; 
+- 🌱 I’m currently learning about Operating Systems and Infra; 
 - 🤔 My interests are software engineering & full stack development;
 - 💼 I’m pursuing a Bachelor's in Math and Computer Science;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via Kylejeong21@gmail.com to reach me.
+- 📫 Please email via Kylejeong@g.ucla.edu to reach me.
 
 
 **Languages and Tools:**  
